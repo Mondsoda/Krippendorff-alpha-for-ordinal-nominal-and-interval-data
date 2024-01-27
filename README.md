@@ -3,4 +3,5 @@ Current programs for calculating Krippendorff's alpha only seems to support nomi
 
 To compute Krippendorff's alpha, just use the krippendorff_alpha() function.
 
-The algorism is built based on the article "Computing Krippendorff's Alpha-Reliability" by Klaus Krippendorff. For further detail, please check this article.
+The algorism is built based on the article "Computing Krippendorff's Alpha-Reliability" by Klaus Krippendorff. For further detail, please check this article:
+https://www.asc.upenn.edu/sites/default/files/2021-03/Computing%20Krippendorff%27s%20Alpha-Reliability.pdf
